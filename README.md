@@ -6,5 +6,4 @@ Our goal is to speed up video querying by skipping redundant frames, which not o
 
 Accelerated video:
 
-
 ![accelerated_video](https://github.com/JackyTang0516/FrameSkipper/assets/111934442/27273a6d-2dfc-4736-969c-55e68146e0b7)
