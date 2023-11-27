@@ -1,4 +1,5 @@
-![image](https://github.com/JackyTang0516/FrameSkipper/assets/111934442/96584b2d-90ef-4a3a-8e45-571dbbfc6203)# FrameSkipper
+# FrameSkipper
+
 YOLOv7 based Vehicle Detection Accelerator
 
 Overview
