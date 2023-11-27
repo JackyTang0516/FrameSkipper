@@ -1,0 +1,9 @@
+path: /home/jackytang0516/Desktop/Jiaqi_Tang/yolov7_noscope
+train: /home/jackytang0516/Desktop/Jiaqi_Tang/yolov7_noscope/images/train
+val: /home/jackytang0516/Desktop/Jiaqi_Tang/yolov7_noscope/images/val/
+test: /home/jackytang0516/Desktop/Jiaqi_Tang/yolov7_noscope/images/val/
+nc: 1
+#names: ['others', 'car', 'van', 'bus']
+#names: ['car', 'bus', 'truck', 'van']
+names: ['vehicle']
+
