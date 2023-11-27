@@ -3,6 +3,8 @@ YOLOv7 based Vehicle Detection Accelerator
 
 Reference: https://ieeexplore.ieee.org/document/10129395
 
+YOLOv7: https://github.com/WongKinYiu/yolov7
+
 Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18Tn/view?usp=sharing
 ](https://drive.google.com/file/d/1MXDrJ5GPsyCM_mthDItrUNmaYjZH3DxE/view?usp=sharing)
 
