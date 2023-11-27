@@ -16,7 +16,6 @@ Project Description
 
 FrameSkipper utilizes a custom dataset and YOLOv7 framework to detect vehicles in video frames. By classifying frames as critical or non-critical, our system retains only the essential frames, thus speeding up the video analysis process.
 
-
 DEMO:
 
 Original video:
@@ -27,16 +26,18 @@ Accelerated video:
 
 ![accelerated_video](https://github.com/JackyTang0516/FrameSkipper/assets/111934442/9d2ef4a8-2a47-4fdb-8f3b-fbe096bdbdab)
 
-Reference: https://ieeexplore.ieee.org/document/10129395
-
-YOLOv7: https://github.com/WongKinYiu/yolov7
-
-Dataset: https://detrac-db.rit.albany.edu/
-
 Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18Tn/view?usp=sharing
 ](https://drive.google.com/file/d/1MXDrJ5GPsyCM_mthDItrUNmaYjZH3DxE/view?usp=sharing)
 
 Slides: https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing
+
+References: 
+
+Papers: https://ieeexplore.ieee.org/document/10129395
+
+Codes: https://github.com/WongKinYiu/yolov7
+
+Datasets: https://detrac-db.rit.albany.edu/
 
 Core Components:
 
