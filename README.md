@@ -1,0 +1,2 @@
+# FrameSkipper
+YOLOv7_Vehicle_Detection_Accelerator
