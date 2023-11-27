@@ -5,6 +5,8 @@ Reference: https://ieeexplore.ieee.org/document/10129395
 
 YOLOv7: https://github.com/WongKinYiu/yolov7
 
+Dataset: https://detrac-db.rit.albany.edu/
+
 Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18Tn/view?usp=sharing
 ](https://drive.google.com/file/d/1MXDrJ5GPsyCM_mthDItrUNmaYjZH3DxE/view?usp=sharing)
 
