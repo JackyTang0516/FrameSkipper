@@ -9,6 +9,7 @@ Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18T
 Nowadays people are working on enhancing video processing efficiency by creating powerful deep neural network models.
 Our goal is to speed up video querying by skipping redundant frames, which not only will reduce evaluation costs but also will save significant inference time.
 
+Slides: https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing
 
 DEMO:
 
