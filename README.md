@@ -29,7 +29,7 @@ Accelerated video:
 Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18Tn/view?usp=sharing
 ](https://drive.google.com/file/d/1MXDrJ5GPsyCM_mthDItrUNmaYjZH3DxE/view?usp=sharing)
 
-Slides: [https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing](https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit#slide=id.g21efff247e5_0_12)
+Slides: [[https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing](https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit#slide=id.g21efff247e5_0_12)](https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing)
 
 References: 
 
