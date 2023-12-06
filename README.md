@@ -2,6 +2,14 @@
 
 YOLOv7 based Vehicle Detection Accelerator
 
+Evaluate Function
+
+Use time_sync to calculate the inference time, and then use FPS(Frames per second) to stand for the speed. (In the frame_skipper.py) 
+
+The number of classes can not influence the result, since we compared the RGB values of each pixels of each images.
+
+The FPS results are in the FPS_CPU.jpg, FPS_GPU.jpg. After trading off, we can get 3× speed up for inference time.
+
 Overview
 
 FrameSkipper is a cutting-edge project designed to accelerate video processing by implementing an advanced deep neural network model. Our solution focuses on improving video querying efficiency by intelligently skipping redundant frames in videos, which significantly reduces evaluation costs and inference time.
@@ -15,6 +23,7 @@ In the realm of video processing, the challenge lies in managing extensive compu
 Project Description
 
 FrameSkipper utilizes a custom dataset and YOLOv7 framework to detect vehicles in video frames. By classifying frames as critical or non-critical, our system retains only the essential frames, thus speeding up the video analysis process.
+
 
 DEMO:
 
