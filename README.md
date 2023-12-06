@@ -2,7 +2,16 @@
 
 YOLOv7 based Vehicle Detection Accelerator
 
-Evaluate Function
+References: 
+
+Papers: https://ieeexplore.ieee.org/document/10129395
+
+Codes: https://github.com/WongKinYiu/yolov7
+
+Datasets: https://detrac-db.rit.albany.edu/
+
+
+Evaluation Function
 
 Use time_sync to calculate the inference time, and then use FPS(Frames per second) to stand for the speed. (In the frame_skipper.py) 
 
@@ -40,13 +49,6 @@ Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18T
 
 Slides: https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing
 
-References: 
-
-Papers: https://ieeexplore.ieee.org/document/10129395
-
-Codes: https://github.com/WongKinYiu/yolov7
-
-Datasets: https://detrac-db.rit.albany.edu/
 
 Core Components:
 
