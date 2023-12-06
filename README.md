@@ -17,7 +17,7 @@ Use time_sync to calculate the inference time, and then use FPS(Frames per secon
 
 The number of classes can not influence the result, since we compared the RGB values of each pixels of each images.
 
-The FPS results are in the FPS_CPU.jpg, FPS_GPU.jpg. After trading off, we can get 3× speed up for inference time.
+The FPS results are in the data/FPS_CPU.jpg, data/FPS_GPU.jpg. After trading off, we can get 3× speed up for inference time.
 
 Overview
 
