@@ -15,7 +15,7 @@ Evaluation Function
 
 Use time_sync to calculate the inference time, and then use FPS(Frames per second) to stand for the speed. (In the frame_skipper.py) 
 
-The number of classes can not influence the result, since we compared the RGB values of each pixels of each images.
+The number of classes can not influence the result, since we compared the RGB values of each pixel of each image.
 
 The FPS results are in the data/Inference_time.jpg After trading off, we can get about 3× speed up for inference time.
 
