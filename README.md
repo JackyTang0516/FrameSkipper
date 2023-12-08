@@ -50,6 +50,7 @@ Trained Model: [https://drive.google.com/file/d/181tTcNFwHdHQXgzxvTrqBOGToPmf18T
 Slides: https://docs.google.com/presentation/d/19Lre-3UEnAXudEL7ISnRFfmfQxd2tobz7RiuIZ0zxWY/edit?usp=sharing
 
 
+
 Core Components:
 
 1. yolov7_train.py: This Python script is responsible for training the YOLOv7 model. It likely includes code to load the dataset, define the neural network architecture, specify the loss function and optimizer, and iterate over the dataset in epochs to train the model for object detection tasks.
